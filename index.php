@@ -1,3 +1,3 @@
 <html>
-  <H1>see leht on testimiseks</H1>
+  <H1>Tere! Te olete jõudnud meie lehele.</H1>
 </html> 
