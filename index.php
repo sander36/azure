@@ -13,6 +13,6 @@
         $currentDateTime = date('Y-m-d H:i:s');
         echo "<p>Current Date and Time: $currentDateTime</p>";
     ?>
-    <img src="https://i.pinimg.com/736x/00/af/60/00af601b947285d31fa1ba13d6e89d78.jpg"
+    <img src="https://i.ytimg.com/vi/8Q26YeiYMHM/hqdefault.jpg"
 </body>
 </html>
