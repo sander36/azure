@@ -8,6 +8,6 @@
 
     <p>See on meie veebileht.</p>
 
-    <img src="https://i.ytimg.com/vi/8Q26YeiYMHM/hqdefault.jpg"
+    <img src="https://i.redd.it/0jfkea9oz8771.jpg"
 </body>
 </html>
